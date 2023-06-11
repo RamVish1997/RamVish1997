@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ram Vishwakarma</h1>
 <h3 align="center">A passionate Data Analyst from India Welcome to my GitHub page</h3>
-<img align = "right" alt = "data analyst" , width = "400" src = "https://github.com/RamVish1997/RamVish1997/assets/115981415/d99f8f01-f429-4dea-91fa-2f5a67dae8ee">
+<img align = "right" alt = "data analyst" , width = "400" src = "https://github.com/RamVish1997/RamVish1997/assets/115981415/b3e92181-6b7a-4749-8852-729af29ae3ca">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramvish1997&label=Profile%20views&color=0e75b6&style=flat" alt="ramvish1997" /> </p>
 
