@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Py Spark**
 
-- 💬 Ask me about **Python, Excel, SQL, Tableau, PowerBI**
+- 💬 Ask me about **Python, Excel, SQL, Tableau, PowerBI, Machine Learning**
 
 - 📫 How to reach me **ramvishwakarm25565@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume]([Resume](https://drive.google.com/file/d/1Kt-VL43BxNQQM4efU12t90-rBhjP0chP/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
