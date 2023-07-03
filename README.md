@@ -1,4 +1,4 @@
-![logo](https://github.com/RamVish1997/RamVish1997/assets/115981415/e7950324-95f6-4323-9145-dabae1f49bf7)
+![logo](https://github.com/RamVish1997/RamVish1997/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner%20ram.png)
 
 <h1 align="center">Hi 👋, I'm Ram Vishwakarma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
